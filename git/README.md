@@ -1,1 +1,1 @@
-First Readme File for Git
+This is my first Readme file for Git Repo Session.
